@@ -1,5 +1,5 @@
-junk:
-  - **/*try*
+snake:
+  - *.py
 
 label1:
   - example/**/*
