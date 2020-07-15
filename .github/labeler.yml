@@ -1,2 +1,5 @@
-junk:
-  - ./*try*
+snake:
+  - src/**/*.py
+
+label1:
+  - example/**/*
