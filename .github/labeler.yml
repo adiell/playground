@@ -1,2 +1,5 @@
 junk:
   - ./**/*try*
+
+label1:
+  - example/**/*
