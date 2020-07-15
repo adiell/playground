@@ -1,5 +1,5 @@
 snake:
-  - ./**/*.py
+  - src/**/*.py
 
 label1:
   - example/**/*
